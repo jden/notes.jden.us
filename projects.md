@@ -58,3 +58,12 @@ linked data message protocol. open, decentralized. useful for passing messages a
 
 - one-click clone socrata data catalog into a new or existing ckan instance
 - archive open data sets to eg internet archive on a regular basis (possibly to something better suited for changing data with better version support, eg dat)
+
+## friend reader
+
+- essentially, an rss feed reader to read your friends' blogs
+- but you make new friends overtime. they have an existing archive of content.
+- this supplements your up-to-the-minute new posts with older posts from the archive that might be interesting for you to read and get to know people and their ideas better
+- take in an OPML feel of blogs you read
+- return a new aggregate RSS feed of historical blog posts from a mix of your friends
+- some sort of serendipity engine to give a good mix of topics / dates / lengths
